@@ -1,0 +1,14 @@
+body {
+	font-family: Tahoma;
+	background: #858585;
+	margin: 0;
+	background-image: url(https://cdn.discordapp.com/attachments/877309490758824007/893463990267674674/125525-atmosfera-raduga-lazur-sinij_cvet-zheltyj-6000x40002.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+
+}
+
+form{
+    width: 500px;
+}
